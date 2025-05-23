@@ -1,21 +1,21 @@
 <h1 align="center">👋 Hi, I'm Oleh Orlichenko</h1>
 
 <p align="center">
-  📱 <b>Mobile Developer</b> | ⚛️ React Native | Flutter | Kotlin | Swift  
+  📱 <b>Mobile Developer</b> | ⚛️ React Native | 🐦 Flutter | 🤖 Android | 🍎 iOS  
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/yourrepo">
-    <img src="https://img.shields.io/github/stars/yourusername/yourrepo?style=social" alt="Stars">
+  <a href="https://github.com/olehorlichenko">
+    <img src="https://img.shields.io/github/stars/olehorlichenko?style=social" alt="Stars">
   </a>
-  <a href="https://github.com/yourusername/yourrepo">
-    <img src="https://img.shields.io/github/forks/yourusername/yourrepo?style=social" alt="Forks">
+  <a href="https://github.com/olehorlichenko">
+    <img src="https://img.shields.io/github/forks/olehorlichenko?style=social" alt="Forks">
   </a>
-  <a href="https://github.com/yourusername/yourrepo/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/yourrepo" alt="Issues">
+  <a href="https://github.com/olehorlichenko?tab=repositories">
+    <img src="https://img.shields.io/github/issues/olehorlichenko/yourrepo" alt="Issues">
   </a>
-  <a href="https://github.com/yourusername/yourrepo/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/yourrepo" alt="License">
+  <a href="https://github.com/olehorlichenko/yourrepo/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/olehorlichenko/yourrepo" alt="License">
   </a>
 </p>
 
@@ -23,32 +23,34 @@
 
 ## ✨ About Me
 
-I'm Oleh, a passionate **mobile app developer** focused on building seamless cross-platform experiences with clean architecture and elegant UI.
+I'm Oleh, a passionate **mobile app developer** who builds high-performance apps using cross-platform and native technologies.
 
-- ⚛️ Specializing in **React Native** and **Flutter**
-- 📱 Also experienced with **Kotlin** and **Swift**
-- 🔁 Agile, test-driven, and focused on scalable mobile apps
-- 🧠 Always learning, always improving
+- ⚛️ Expert in **React Native** and **Flutter**
+- 🤖 Experienced with **Native Android** (Kotlin, Java)
+- 🍎 Skilled in **iOS Development** using Swift & Xcode
+- 💡 I love building intuitive, fast, and scalable mobile experiences
+- 🔁 Focused on clean code, best practices, and agile workflows
 
 ---
 
 ## 🛠 Tech Stack
 
-| Category     | Tools/Frameworks |
-|-------------|------------------|
-| 👨‍💻 Languages  | JavaScript, Dart, Kotlin, Swift |
-| 📱 Mobile    | **React Native**, Flutter, Jetpack Compose, SwiftUI |
-| 🛠 Tools     | VS Code, Android Studio, Xcode, Firebase, Expo |
-| ☁️ Backend   | REST, GraphQL, Firebase, Supabase |
-| ✅ Testing   | Jest, Detox, Unit, Widget, Integration Tests |
+| Category       | Tools/Frameworks                                         |
+|----------------|----------------------------------------------------------|
+| 👨‍💻 Languages    | JavaScript, Dart, Kotlin, Swift, Java                   |
+| 📱 Frameworks   | **React Native**, Flutter, Jetpack Compose, SwiftUI     |
+| 🛠 Native Tools | Android Studio, Xcode, Gradle, CocoaPods                 |
+| 🔌 Backend/APIs | REST, GraphQL, Firebase, Supabase                        |
+| ✅ Testing      | Jest, Detox, Espresso, XCTest, Widget & Integration     |
+| 🧰 Tools        | Git, GitHub Actions, VS Code, Expo, Fastlane            |
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oleh-orlichenko&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oleh-orlichenko&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olehorlichenko&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olehorlichenko&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
@@ -56,9 +58,9 @@ I'm Oleh, a passionate **mobile app developer** focused on building seamless cro
 ## 📫 Contact Me
 
 - 📧 Email: [olehorlichenko@gmail.com](mailto:olehorlichenko@gmail.com)  
-- 🧑‍💻 GitHub: [@oleh-orlichenko](https://github.com/oleh-orlichenko)  
+- 🧑‍💻 GitHub: [@olehorlichenko](https://github.com/olehorlichenko)  
 - 💼 LinkedIn: *(Add your LinkedIn link here)*  
 
 ---
 
-<p align="center"><i>“Building seamless mobile experiences one line of code at a time.”</i></p>
+<p align="center"><i>“Bridging the gap between design and performance in mobile apps.”</i></p>
