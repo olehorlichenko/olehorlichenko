@@ -19,12 +19,6 @@
   <a href="https://github.com/olehorlichenko">
     <img src="https://img.shields.io/github/stars/olehorlichenko?style=social" />
   </a>
-  <a href="https://github.com/olehorlichenko">
-    <img src="https://img.shields.io/github/commit-activity/m/olehorlichenko?label=Monthly%20Commits" />
-  </a>
-  <a href="https://github.com/olehorlichenko">
-    <img src="https://img.shields.io/github/contributions/olehorlichenko/year?label=Contributions" />
-  </a>
 </p>
 
 ---
