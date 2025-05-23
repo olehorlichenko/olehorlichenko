@@ -57,11 +57,11 @@ I'm Oleh, a passionate **mobile app developer** who builds high-performance apps
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mernmaster2025&show_icons=true&theme=radical" alt="Oleh's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=olehorlichenko&show_icons=true&theme=radical" alt="Oleh's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mernmaster2025&theme=radical" alt="Oleh's GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=olehorlichenko&theme=radical" alt="Oleh's GitHub streak"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mernmaster2025&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olehorlichenko&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
@@ -70,8 +70,8 @@ I'm Oleh, a passionate **mobile app developer** who builds high-performance apps
 
 - 📧 Email: [olehorlichenko@gmail.com](mailto:olehorlichenko@gmail.com)  
 - 🧑‍💻 GitHub: [@olehorlichenko](https://github.com/olehorlichenko)  
-- 🧠 HackerRank: [Visit Profile](https://www.hackerrank.com/profile/mastermern3)
-- 💼 LinkedIn: [Oleh Orlichenko](https://www.linkedin.com/in/oleh-orlichenko-0757a6362/)) 
+- 🧠 HackerRank: [Oleh Orlichenko](https://www.hackerrank.com/profile/mastermern3)
+- 💼 LinkedIn: [Oleh Orlichenko](https://www.linkedin.com/in/oleh-orlichenko-0757a6362/)
 
 ---
 
